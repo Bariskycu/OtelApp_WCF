@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ServiceLayer
+{
+    [DataContract]
+    public class OdaU
+    {
+        [DataMember]
+        public int OdaUId { get; set; }
+        [DataMember]
+        public string UrunAdi { get; set; }
+        [DataMember]
+        public string Kategori { get; set; }
+        [DataMember]
+        public string Adet { get; set; }
+        [DataMember]
+        public string Fiyat { get; set; }
+        [DataMember]
+        public string Firma { get; set; }
+        [DataMember]
+        public DateTime GelisTarihi { get; set; }
+    }
+}

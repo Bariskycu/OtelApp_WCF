@@ -1,0 +1,71 @@
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe.config
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciGiris.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Properties.Resources.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciKayit.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SifremiUnuttum.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriB.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriKayit.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Mutfak.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Odalar.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.OdaUrunleri.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.PersonalB.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SosyalAglar.resources
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\RdlCompile.cache
+C:\Users\Casper\Desktop\Final Proje\OtelUygulamasi\OtelUygulamasi\obj\Debug\RdlCompile.compiled
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe.config
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciGiris.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciKayit.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriB.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriKayit.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Mutfak.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Odalar.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.OdaUrunleri.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.PersonalB.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Properties.Resources.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SifremiUnuttum.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SosyalAglar.resources
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\RdlCompile.cache
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\RdlCompile.compiled
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe.config
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe.config
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\OtelUygulamasi.pdb
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciGiris.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.KullaniciKayit.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriB.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.MusteriKayit.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Mutfak.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Odalar.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.OdaUrunleri.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.PersonalB.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.Properties.Resources.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SifremiUnuttum.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.SosyalAglar.resources
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.csproj.CopyComplete
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.exe
+C:\Users\Casper\Desktop\Ivj\BARIŞ B\Dersler\2.Sınıf Veritabanı ve Yönetimi\Final Proje WCF\OtelUygulamasi\OtelUygulamasi\obj\Debug\OtelUygulamasi.pdb
